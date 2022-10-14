@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Matthewvoss8
-- 👀 I’m interested in Star Wars and playing games
-- 🌱 I’m currently learning python and german
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- 👀 I’m interested in learning new forecasting techniques.
+- 🌱 I’m currently learning Python and German.
 - 📫 How to reach me: not at the moment. 
 
 <!---
